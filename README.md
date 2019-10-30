@@ -1,2 +1,1 @@
-# proyecto_analisi
-luis jotolonchis
+# proyecto_analisis
